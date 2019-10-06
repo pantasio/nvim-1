@@ -31,12 +31,12 @@ Plug 'terryma/vim-multiple-cursors'
 Plug 'tpope/vim-eunuch'
 Plug 'tpope/vim-surround'
 Plug 'w0rp/ale'
-Plug 'Valloric/YouCompleteMe'
+"Plug 'Valloric/YouCompleteMe'
 
 call plug#end()
 
 syntax on 
-colorscheme goodwolf
+"colorscheme goodwolf
 
 
 "" Making it even better
